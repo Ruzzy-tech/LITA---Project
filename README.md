@@ -34,9 +34,6 @@ The dataset contains the following columns:
 - README.md: Overview of the project.
 
 
-## Getting Started
-To explore the analysis, you can download the Power BI dashboard (dashboard.pbix) or view the report in the reports/ folder.
-
 ## Dependencies
 - Excel and SQL database tool (for analysis)
 - Power BI (for dashboard)
